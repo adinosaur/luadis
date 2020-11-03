@@ -1,5 +1,5 @@
 # luadis
-类似于python的dis模块打印出函数的字节码，打印的`luac -l xxx.lua`一致
+类似于python的dis模块打印出函数的字节码
 
 ## Build
 ```
